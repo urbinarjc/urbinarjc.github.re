@@ -6,8 +6,8 @@ body { font-size: 12px; }
   body { font-size: 16px; }
   img{
    width: 100%;
-   max-width:1600px;
-   max-height: 412px;
+   max-width:720px;
+   max-height: 1600px;
    opacity:0.5;
    filter:alpha(opacity=50);
  }
