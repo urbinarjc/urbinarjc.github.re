@@ -6,7 +6,7 @@ body { font-size: 12px; }
   body { font-size: 16px; }
   img{
    width: 100%;
-   max-width:914px;
+   max-width:1600px;
    max-height: 412px;
    opacity:0.5;
    filter:alpha(opacity=50);
